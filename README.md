@@ -2,8 +2,6 @@
 
 This project is a fully functional cookie consent modal built with vanilla JavaScript. It was created as part of the "Essential JavaScript" course, focusing on core JavaScript concepts to build a practical and common web feature.
 
-![Screenshot of the Cookie Consent project progress in the Essential JavaScript course.]
-<img width="535" height="787" alt="image" src="https://github.com/user-attachments/assets/ee799b21-bd25-45ec-a042-856f0a39c6d9" />
 
 
 ## 🌟 Features
